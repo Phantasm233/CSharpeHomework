@@ -1,0 +1,12 @@
+E:\学习相关\C#\课件\Homework8\OrderForm\bin\Debug\OrderForm.exe.config
+E:\学习相关\C#\课件\Homework8\OrderForm\bin\Debug\OrderForm.exe
+E:\学习相关\C#\课件\Homework8\OrderForm\bin\Debug\OrderForm.pdb
+E:\学习相关\C#\课件\Homework8\OrderForm\bin\Debug\ordertest.exe
+E:\学习相关\C#\课件\Homework8\OrderForm\bin\Debug\ordertest.pdb
+E:\学习相关\C#\课件\Homework8\OrderForm\obj\Debug\OrderForm.csprojResolveAssemblyReference.cache
+E:\学习相关\C#\课件\Homework8\OrderForm\obj\Debug\OrderForm.FormMain.resources
+E:\学习相关\C#\课件\Homework8\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+E:\学习相关\C#\课件\Homework8\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+E:\学习相关\C#\课件\Homework8\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.Cache
+E:\学习相关\C#\课件\Homework8\OrderForm\obj\Debug\OrderForm.exe
+E:\学习相关\C#\课件\Homework8\OrderForm\obj\Debug\OrderForm.pdb

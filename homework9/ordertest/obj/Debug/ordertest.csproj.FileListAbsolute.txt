@@ -1,0 +1,17 @@
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\ordertest.exe.config
+E:\学习相关\C#\课件\Homework8\ordertest\obj\Debug\ordertest.csprojResolveAssemblyReference.cache
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\ordertest.exe
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\ordertest.pdb
+E:\学习相关\C#\课件\Homework8\ordertest\obj\Debug\ordertest.exe
+E:\学习相关\C#\课件\Homework8\ordertest\obj\Debug\ordertest.pdb
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\BouncyCastle.Crypto.dll
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\EntityFramework.dll
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\EntityFramework.SqlServer.dll
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\Google.Protobuf.dll
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\MySql.Data.dll
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\EntityFramework.xml
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\EntityFramework.SqlServer.xml
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\Google.Protobuf.xml
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\MySql.Data.xml
+E:\学习相关\C#\课件\Homework8\ordertest\bin\Debug\MySql.Data.Entity.EF6.xml
