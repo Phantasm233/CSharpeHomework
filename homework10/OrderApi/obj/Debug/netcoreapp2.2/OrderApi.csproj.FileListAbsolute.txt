@@ -1,0 +1,14 @@
+C:\Users\lenovo\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.deps.json
+C:\Users\lenovo\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.runtimeconfig.json
+C:\Users\lenovo\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.runtimeconfig.dev.json
+c:\Users\lenovo\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.dll
+c:\Users\lenovo\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.pdb
+c:\Users\lenovo\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.csprojAssemblyReference.cache
+c:\Users\lenovo\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.csproj.CoreCompileInputs.cache
+c:\Users\lenovo\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.RazorAssemblyInfo.cache
+c:\Users\lenovo\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.RazorAssemblyInfo.cs
+c:\Users\lenovo\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.AssemblyInfoInputs.cache
+c:\Users\lenovo\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.AssemblyInfo.cs
+c:\Users\lenovo\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.RazorTargetAssemblyInfo.cache
+c:\Users\lenovo\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.dll
+c:\Users\lenovo\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.pdb
